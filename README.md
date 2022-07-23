@@ -1,4 +1,5 @@
 Demo application crated as part of the Rapid Fullstack development livestream workshop
+    "https://www.youtube.com/watch?v=wsEGDiU0SAc"
     
 Initiate a git repository on a local drive.
 >git init
